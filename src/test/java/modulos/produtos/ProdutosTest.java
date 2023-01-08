@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-@DisplayName("Testes Web do Modulo de Produtos")
+@DisplayName("Testes Web do Modulo de servicos")
 public class ProdutosTest {
 
 
